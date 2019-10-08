@@ -1,0 +1,25 @@
+{
+  "name": "canivetesuiconode",
+  "version": "3.0.0",
+  "description": "Efetua a verificação se um numero é par e se é um numero primo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfilitto/canivetesuiconode.git"
+  },
+  "keywords": [
+    "número",
+    "par",
+    "número",
+    "primo"
+  ],
+  "author": "Danilo Filitto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfilitto/canivetesuiconode/issues"
+  },
+  "homepage": "https://github.com/dfilitto/canivetesuiconode#readme"
+}
